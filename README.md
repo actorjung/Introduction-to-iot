@@ -1,4 +1,4 @@
-<img width="909" alt="스크린샷 2023-11-08 오후 2 56 39" src="https://github.com/actorjung/Introduction-to-iot/assets/112843229/a3e29955-fe38-4fd4-a8a4-999f7444c10d">## Subject
+## Subject
 
 ---
 
